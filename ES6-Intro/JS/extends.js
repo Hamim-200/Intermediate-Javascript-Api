@@ -68,3 +68,4 @@ class JobPlacement extends TeamMember {
 const alia = new developer('Alia','Dhaka','react');
 console.log(alia);
 alia.provideFeedback();
+
